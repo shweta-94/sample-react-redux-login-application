@@ -19,12 +19,13 @@ There are 5 features in the applications as follows:
 
 5. Search - On the search Page you can enter the username of the User you want to look for and hit "enter". It will return an Alert message if "user found" else "user not found"
 
-To run,
+  To run,
 
-git clone "https://github.com/shweta-94/react-redux-login-app"
-Run npm install
-Run npm start to start the app server.
-Navigate to localhost:8080
+  1. git clone "https://github.com/shweta-94/sample-react-redux-login-application.git"
+  2. cd sample-react-redux-login-application
+  3. Run npm install
+  4. Run npm start to start the app server.
+  5. Navigate to localhost:8080
 
 Stepwise running and explanation of how frontend and backend are integrated:
 
