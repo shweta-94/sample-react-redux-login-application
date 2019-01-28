@@ -26,6 +26,10 @@ There are 5 features in the applications as follows:
   3. Run npm install
   4. Run npm start to start the app server.
   5. Navigate to localhost:8080
+  
+  To run the tests
+  1. cd Test
+  2. npm test
 
 Stepwise running and explanation of how frontend and backend are integrated:
 
